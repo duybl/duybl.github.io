@@ -2,6 +2,348 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>/trinhcongson-Con-thay-mat-nguoi</loc>
+    
+    <lastmod>2016-11-17T00:00:00+07:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>/trinhcongson-Con-mat-con-lai</loc>
+    
+    <lastmod>2016-11-17T00:00:00+07:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>/trinhcongson-Con-mai-tim-nhau</loc>
+    
+    <lastmod>2016-11-17T00:00:00+07:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>/trinhcongson-Con-co-bao-ngay</loc>
+    
+    <lastmod>2016-11-17T00:00:00+07:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>/trinhcongson-Con-ai-voi-ai</loc>
+    
+    <lastmod>2016-11-17T00:00:00+07:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>/trinhcongson-Co-xot-xa-dua</loc>
+    
+    <lastmod>2016-11-17T00:00:00+07:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>/trinhcongson-Co-nhung-con-duong</loc>
+    
+    <lastmod>2016-11-17T00:00:00+07:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>/trinhcongson-Co-nghe-doi-nghieng</loc>
+    
+    <lastmod>2016-11-17T00:00:00+07:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>/trinhcongson-Co-mot-ngay-nhu-the</loc>
+    
+    <lastmod>2016-11-17T00:00:00+07:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>/trinhcongson-Co-mot-dong-song-da-qua-doi</loc>
+    
+    <lastmod>2016-11-17T00:00:00+07:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>/trinhcongson-Chuy%E1%BB%87n-doa-quynh-huong</loc>
+    
+    <lastmod>2016-11-17T00:00:00+07:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>/trinhcongson-Chua-mat-niem-tin</loc>
+    
+    <lastmod>2016-11-17T00:00:00+07:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>/trinhcongson-Cho-que-huong-mim-cuoi</loc>
+    
+    <lastmod>2016-11-17T00:00:00+07:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>/trinhcongson-Cho-nhin-que-huong-choi</loc>
+    
+    <lastmod>2016-11-17T00:00:00+07:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>/trinhcongson-Cho-doi-chut-on</loc>
+    
+    <lastmod>2016-11-17T00:00:00+07:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>/trinhcongson-Chinh-chung-ta-phai-noi</loc>
+    
+    <lastmod>2016-11-17T00:00:00+07:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>/trinhcongson-Chim-duoi-con-mua</loc>
+    
+    <lastmod>2016-11-17T00:00:00+07:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>/trinhcongson-Chieu-tren-que-huong-toi</loc>
+    
+    <lastmod>2016-11-17T00:00:00+07:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>/trinhcongson-Chieu-mot-minh-qua-pho</loc>
+    
+    <lastmod>2016-11-17T00:00:00+07:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>/trinhcongson-Chiec-la-thu-phai</loc>
+    
+    <lastmod>2016-11-17T00:00:00+07:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>/trinhcongson-Chi-co-ta-trong-doi</loc>
+    
+    <lastmod>2016-11-17T00:00:00+07:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>/trinhcongson-Cat-bui</loc>
+    
+    <lastmod>2016-11-17T00:00:00+07:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>/trinhcongson-Cat-bui-tinh-xa</loc>
+    
+    <lastmod>2016-11-17T00:00:00+07:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>/trinhcongson-Canh-dong-hoa-binh</loc>
+    
+    <lastmod>2016-11-17T00:00:00+07:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>/trinhcongson-Canh-chim-co-don</loc>
+    
+    <lastmod>2016-11-17T00:00:00+07:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>/trinhcongson-Ca-dao-me</loc>
+    
+    <lastmod>2016-11-17T00:00:00+07:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>/trinhcongson-Buon-tung-phut-giay</loc>
+    
+    <lastmod>2016-11-17T00:00:00+07:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>/trinhcongson-Bong-khong-la-bong</loc>
+    
+    <lastmod>2016-11-17T00:00:00+07:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>/trinhcongson-Bong-bong-oi-Con</loc>
+    
+    <lastmod>2016-11-17T00:00:00+07:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>/trinhcongson-Bon-mua-thay-la</loc>
+    
+    <lastmod>2016-11-17T00:00:00+07:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>/trinhcongson-Biet-dau-nguon-coi</loc>
+    
+    <lastmod>2016-11-17T00:00:00+07:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>/trinhcongson-Bien</loc>
+    
+    <lastmod>2016-11-17T00:00:00+07:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>/trinhcongson-Bien-nho</loc>
+    
+    <lastmod>2016-11-17T00:00:00+07:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>/trinhcongson-Bien-nghin-thu-o-lai</loc>
+    
+    <lastmod>2016-11-17T00:00:00+07:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>/trinhcongson-Ben-song</loc>
+    
+    <lastmod>2016-11-17T00:00:00+07:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>/trinhcongson-Ben-doi-hiu-quanh</loc>
+    
+    <lastmod>2016-11-17T00:00:00+07:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>/trinhcongson-Bay-di-tham-lang</loc>
+    
+    <lastmod>2016-11-17T00:00:00+07:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>/trinhcongson-Bai-ca-danh-cho-nhung-xac-nguoi</loc>
+    
+    <lastmod>2016-11-17T00:00:00+07:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
     <loc>/phamtrongcau-Truong-lang-toi</loc>
     
     <lastmod>2016-11-17T00:00:00+07:00</lastmod>
