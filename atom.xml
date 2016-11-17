@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>chordFULL</title>
+ <link href="/atom.xml" rel="self"/>
+ <link href=""/>
+ <updated>2016-11-17T10:29:02+07:00</updated>
+ <id></id>
+ <author>
+   <name>binhbet</name>
+   <email>binhbet@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Ai ngoài cánh cửa</title>
+   <link href="/trinhcongson-aingoaicanhcua"/>
+   <updated>2016-09-20T03:10:00+07:00</updated>
+   <id>/trinhcongson-aingoaicanhcua</id>
+   <content type="html">&lt;pre data-key=&quot;G&quot;&gt;
+G
+Em  nhảy linh tinh
+         D
+Em nhảy một  mình
+           G
+Ai ngoài cánh  cửa
+Em        D
+À    gió đi  qua
+
+G
+Ai  ngoài cánh cửa
+Em         Am
+À    nắng đi    qua
+           D7
+Ai ngoài cánh    cửa
+      G
+À mẹ mới  về
+&lt;/pre&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Bà mẹ Ô Lý</title>
+   <link href="/trinhcongson-1"/>
+   <updated>2016-09-20T03:10:00+07:00</updated>
+   <id>/trinhcongson-1</id>
+   <content type="html">&lt;pre data-key=&quot;Am&quot;&gt;
+Am                  Dm        G
+﻿1. Một    sớm lên đường mẹ    ra sau  vườn
+      Em                  Am
+Hỏi thăm trái    bí trên giàn còn    xanh
+Am                 Dm          G
+Một    sớm bên hè vườn    sau vắng  vẻ
+    Em                    Am
+Này thôi bí    nhé lên đường cùng    me.
+
+ĐK:
+Am
+Bí    nằm bí ngủ đường xa
+G       C
+Trên  vai mẹ  già
+      Em
+Bao nhiêu vốn    liếng
+Am                    Dm
+Nhớ    tới một đời đã xới    vun
+   G             C
+Hôm nay bỏ  vườn với xóm  thôn
+Em             Dm
+Chân mẹ    già sao run    quá
+  E7               Am
+Qua xương    trắng với máu    hồng
+
+Am                Dm          G
+2. Một    sớm đã về dừng    chân phố  thị
+   Em                 Am
+Mẹ ôm trái    bí mắt còn ngẩn    ngơ
+Am                 Dm          G
+Ðường    vắng bên lề một    thân rất  nhỏ
+     Em              Am
+Mẹ mang trái    bí đi về chợ    xa.
+
+Am                  Dm         G
+* Mẹ    nhớ mái nhà hàng    cau sau  hè
+       Em                 Am
+Còn riêng trái    bí nhớ giàn đầy    hoa.
+&lt;/pre&gt;
+</content>
+ </entry>
+ 
+ 
+</feed>
