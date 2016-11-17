@@ -2,7 +2,79 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>/trinhcongson-bameoly</loc>
+    <loc>/phamtrongcau-Truong-lang-toi</loc>
+    
+    <lastmod>2016-11-17T00:00:00+07:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>/phamtrongcau-Tan-phai</loc>
+    
+    <lastmod>2016-11-17T00:00:00+07:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>/phamtrongcau-Que-huong</loc>
+    
+    <lastmod>2016-11-17T00:00:00+07:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>/phamtrongcau-Mua-thu-khong-tro-loi</loc>
+    
+    <lastmod>2016-11-17T00:00:00+07:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>/phamtrongcau-Em-mai-la-hai-muoi-tuoi</loc>
+    
+    <lastmod>2016-11-17T00:00:00+07:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>/phamtrongcau-Dem-lanh</loc>
+    
+    <lastmod>2016-11-17T00:00:00+07:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>/phamtrongcau-Cho-con</loc>
+    
+    <lastmod>2016-11-17T00:00:00+07:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>/phamtrongcau-Bien-sang</loc>
+    
+    <lastmod>2016-11-17T00:00:00+07:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>/trinhcongson-ba-me-o-ly</loc>
     
     <lastmod>2016-09-20T03:10:00+07:00</lastmod>
     
@@ -11,7 +83,7 @@
   </url>
   
   <url>
-    <loc>/trinhcongson-aingoaicanhcua</loc>
+    <loc>/trinhcongson-ai-ngoai-canh-cua</loc>
     
     <lastmod>2016-09-20T03:10:00+07:00</lastmod>
     

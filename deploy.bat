@@ -1,4 +1,3 @@
-@echo off
 jekyll build
 cd _site
 git add .
