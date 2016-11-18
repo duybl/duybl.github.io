@@ -340,7 +340,7 @@ Author: Kushagra Gour (http://kushagragour.in)
 MIT Licensed
 */
 .super-search-btn {
-	position: fixed;
+	position: center;
 	right: 10px;
 	top: 15px;
 	fill: #DDD;
@@ -351,7 +351,7 @@ MIT Licensed
 
 .super-search {
 	position: fixed;
-	background-color: #4db6ac;
+	background-color: transparent;
 	left: 0;
 	right: 0;
 	top: 0;
@@ -365,10 +365,14 @@ MIT Licensed
 .super-search__close-btn {
 	fill: #DDD;
 	position: absolute;
-	right: 10px;
-	top: 15px;
+	right: 3px;
+	top: 3px;
 	z-index: 1;
   color: #000;
+}
+
+.super-search__close-btn:hover {
+	fill: #BBB;
 }
 
 .super-search__input {
@@ -376,7 +380,7 @@ MIT Licensed
 	font-size: 10em;
 	border-left: none;
 	border-right: none;
-	color: #fff;
+	color: #4db6ac;
 	width: 100%;
 	padding: 20px 31px;
 	text-align: center;
@@ -407,7 +411,7 @@ MIT Licensed
 	box-shadow: 0 3px 4px rgba(0,0,0,0.1);
 }
 
-.super-search__result-date {
+.super-search__result-tennhacsy {
 	color: #BBB;
 	position: absolute;
 	right: 12px;
