@@ -315,3 +315,22 @@ span.c {
   background: #4db6ac;
   color: #FFF;
 }
+
+#search-container {
+       max-width: 40em;
+       padding: 1em;
+       margin: 1em auto;
+}
+
+#search-input {
+       display: inline-block;
+       padding: .5em;
+       width: 100%;
+       font-size: 4em;
+       -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+       box-sizing: border-box;
+}
+#results-container {
+    text-decoration-color: red;
+}
