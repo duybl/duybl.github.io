@@ -359,7 +359,7 @@ MIT Licensed
 	z-index: 1;
 	transition: 0.2s ease;
 	visibility: hidden;
-	opacity: 0;
+	opacity: 50;
 }
 
 .super-search__close-btn {
@@ -380,8 +380,8 @@ MIT Licensed
 	width: 100%;
 	padding: 20px 31px;
 	text-align: center;
-	/*transform: translateY(-100%);
-	transition: 0.15s ease-out 150ms;*/
+	transform: translateY(-100%);
+	transition: 0.15s ease-out 150ms;
 }
 
 .is-active .super-search__input {
