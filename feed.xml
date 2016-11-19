@@ -5,8 +5,8 @@
     <description>Lời hát và hợp âm Việt</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 19 Nov 2016 10:55:59 +0700</pubDate>
-    <lastBuildDate>Sat, 19 Nov 2016 10:55:59 +0700</lastBuildDate>
+    <pubDate>Sat, 19 Nov 2016 11:16:51 +0700</pubDate>
+    <lastBuildDate>Sat, 19 Nov 2016 11:16:51 +0700</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -19,7 +19,7 @@ category: nhacvang
 musician: “Trịnh Công Sơn”
 —&lt;/p&gt;
 
-&lt;pre datakey=&quot;&quot;&gt;
+&lt;pre data-key=&quot;&quot;&gt;
 
                      Dm                     Bb
 1. Một cuộc tình nhỏ    bé bên đôi môi hồng    đào
@@ -78,7 +78,7 @@ category: nhacvang
 musician: “Trịnh Công Sơn”
 —&lt;/p&gt;
 
-&lt;pre datakey=&quot;&quot;&gt;
+&lt;pre data-key=&quot;&quot;&gt;
 
       Gm                   Cm
 1. Về    trong phố xưa tôi    nằm
@@ -145,7 +145,7 @@ category: nhacvang
 musician: “Trịnh Công Sơn”
 —&lt;/p&gt;
 
-&lt;pre datakey=&quot;&quot;&gt;
+&lt;pre data-key=&quot;&quot;&gt;
 
    Am
 1.    Đêm mẹ ngồi cầu kinh
@@ -272,7 +272,7 @@ category: nhacvang
 musician: “Trịnh Công Sơn”
 —&lt;/p&gt;
 
-&lt;pre datakey=&quot;&quot;&gt;
+&lt;pre data-key=&quot;&quot;&gt;
 
        Em        G        B7
 1. Đêm    xưa ra  phố với    người
@@ -346,7 +346,7 @@ category: nhacvang
 musician: “Trịnh Công Sơn”
 —&lt;/p&gt;
 
-&lt;pre datakey=&quot;&quot;&gt;
+&lt;pre data-key=&quot;&quot;&gt;
 
                  D
 1. Lời mẹ ru con  đến những khu vườn
@@ -441,7 +441,7 @@ category: nhacvang
 musician: “Trịnh Công Sơn”
 —&lt;/p&gt;
 
-&lt;pre datakey=&quot;&quot;&gt;
+&lt;pre data-key=&quot;&quot;&gt;
 
 Dm                        C        Bb          A7
    Người tìm đến với bước  chân âm    thầm mùa    hạ
@@ -500,7 +500,7 @@ category: nhacvang
 musician: “Trịnh Công Sơn”
 —&lt;/p&gt;
 
-&lt;pre datakey=&quot;&quot;&gt;
+&lt;pre data-key=&quot;&quot;&gt;
 
    Dm                A7          Dm                   Gm
 1.    Chiều chủ nhật    buồn nằm    trong căn gác đìu    hiu
@@ -557,7 +557,7 @@ category: nhacvang
 musician: “Trịnh Công Sơn”
 —&lt;/p&gt;
 
-&lt;pre datakey=&quot;&quot;&gt;
+&lt;pre data-key=&quot;&quot;&gt;
 
                Am                     D
 1.Tình yêu mật    ngọt, mật ngọt trên  môi
@@ -618,7 +618,7 @@ category: nhacvang
 musician: “Trịnh Công Sơn”
 —&lt;/p&gt;
 
-&lt;pre datakey=&quot;&quot;&gt;
+&lt;pre data-key=&quot;&quot;&gt;
 
        C7                  F                   Am
 1. Lại    gần, gần lại với  nhau ngồi gần nhau    hơn
@@ -702,7 +702,7 @@ category: nhacvang
 musician: “Trịnh Công Sơn”
 —&lt;/p&gt;
 
-&lt;pre datakey=&quot;&quot;&gt;
+&lt;pre data-key=&quot;&quot;&gt;
 
       C
 1. Ta  về nơi đây phố xưa dấu đạn
@@ -773,7 +773,7 @@ category: nhacvang
 musician: “Trịnh Công Sơn”
 —&lt;/p&gt;
 
-&lt;pre datakey=&quot;&quot;&gt;
+&lt;pre data-key=&quot;&quot;&gt;
 
    G
 1.  Kìa có con chim non chim chơi ở sân trường
@@ -822,7 +822,7 @@ category: nhacvang
 musician: “Trịnh Công Sơn”
 —&lt;/p&gt;
 
-&lt;pre datakey=&quot;&quot;&gt;
+&lt;pre data-key=&quot;&quot;&gt;
 
                Dm
 1. Im lặng của    đêm tôi đã lắng nghe
@@ -881,7 +881,7 @@ category: nhacvang
 musician: “Trịnh Công Sơn”
 —&lt;/p&gt;
 
-&lt;pre datakey=&quot;&quot;&gt;
+&lt;pre data-key=&quot;&quot;&gt;
 
              Am              Dm
 1. Đêm chong    đèn ngồi nhớ    lại
@@ -960,7 +960,7 @@ category: nhacvang
 musician: “Trịnh Công Sơn”
 —&lt;/p&gt;
 
-&lt;pre datakey=&quot;&quot;&gt;
+&lt;pre data-key=&quot;&quot;&gt;
 
    D                                            A
 1.  Huế Sài Gòn Hà Nội Quê hương ơi sao vẫn còn  xa
@@ -1054,7 +1054,7 @@ category: nhacvang
 musician: “Trịnh Công Sơn”
 —&lt;/p&gt;
 
-&lt;pre datakey=&quot;&quot;&gt;
+&lt;pre data-key=&quot;&quot;&gt;
 
                D                    A
 1. Hôm nay tôi  nghe có con chim về  gọi
@@ -1118,7 +1118,7 @@ category: nhacvang
 musician: “Trịnh Công Sơn”
 —&lt;/p&gt;
 
-&lt;pre datakey=&quot;&quot;&gt;
+&lt;pre data-key=&quot;&quot;&gt;
 
               A                  E
 1. Cây sẽ cho  lộc và cây sẽ cho  hoa
@@ -1191,7 +1191,7 @@ category: nhacvang
 musician: “Trịnh Công Sơn”
 —&lt;/p&gt;
 
-&lt;pre datakey=&quot;&quot;&gt;
+&lt;pre data-key=&quot;&quot;&gt;
 
               Am
 1. Em đến bên    đời hoa vàng một đóa
@@ -1255,7 +1255,7 @@ category: nhacvang
 musician: “Trịnh Công Sơn”
 —&lt;/p&gt;
 
-&lt;pre datakey=&quot;&quot;&gt;
+&lt;pre data-key=&quot;&quot;&gt;
 
        A
 1. Hãy  yêu nhau đi khi rừng thay lá
@@ -1322,7 +1322,7 @@ category: nhacvang
 musician: “Trịnh Công Sơn”
 —&lt;/p&gt;
 
-&lt;pre datakey=&quot;&quot;&gt;
+&lt;pre data-key=&quot;&quot;&gt;
 
                 Am                 F                Am
 1. Hãy sống dùm    tôi hãy nói dùm  tôi hãy thở dùm    tôi
@@ -1380,7 +1380,7 @@ category: nhacvang
 musician: “Trịnh Công Sơn”
 —&lt;/p&gt;
 
-&lt;pre datakey=&quot;&quot;&gt;
+&lt;pre data-key=&quot;&quot;&gt;
 
 C                   G
  Hãy nhìn lại, mười  lăm năm em có buồn không
@@ -1456,7 +1456,7 @@ category: nhacvang
 musician: “Trịnh Công Sơn”
 —&lt;/p&gt;
 
-&lt;pre datakey=&quot;&quot;&gt;
+&lt;pre data-key=&quot;&quot;&gt;
 
    F               Am           C
 1.  Hãy khóc đi em    cuối cuộc  tình
@@ -1512,7 +1512,7 @@ category: nhacvang
 musician: “Trịnh Công Sơn”
 —&lt;/p&gt;
 
-&lt;pre datakey=&quot;&quot;&gt;
+&lt;pre data-key=&quot;&quot;&gt;
 
       D                    Bm
 1. Em  hãy đi cùng tôi đến    trước từng căn nhà
@@ -1579,7 +1579,7 @@ category: nhacvang
 musician: “Trịnh Công Sơn”
 —&lt;/p&gt;
 
-&lt;pre datakey=&quot;&quot;&gt;
+&lt;pre data-key=&quot;&quot;&gt;
 
                    G
 1. Hãy cứ vui chơi  cuộc đời
@@ -1655,7 +1655,7 @@ category: nhacvang
 musician: “Trịnh Công Sơn”
 —&lt;/p&gt;
 
-&lt;pre datakey=&quot;&quot;&gt;
+&lt;pre data-key=&quot;&quot;&gt;
 
           Bb                            F
 Người góp    máu cho tương lai đất nước  này
@@ -1709,7 +1709,7 @@ category: nhacvang
 musician: “Trịnh Công Sơn”
 —&lt;/p&gt;
 
-&lt;pre datakey=&quot;&quot;&gt;
+&lt;pre data-key=&quot;&quot;&gt;
 
    Am                                Dm
 1.    Chiều đi lên đồi cao, hát trên    những xác người
@@ -1770,7 +1770,7 @@ category: nhacvang
 musician: “Trịnh Công Sơn”
 —&lt;/p&gt;
 
-&lt;pre datakey=&quot;&quot;&gt;
+&lt;pre data-key=&quot;&quot;&gt;
 
            Dm                          Gm
 1. Anh nằm    xuống sau một lần đã đến    đây
@@ -1855,7 +1855,7 @@ category: nhacvang
 musician: “Trịnh Công Sơn”
 —&lt;/p&gt;
 
-&lt;pre datakey=&quot;&quot;&gt;
+&lt;pre data-key=&quot;&quot;&gt;
 
               Dm
 1. Chiều lên,    chiều lên
@@ -1931,7 +1931,7 @@ category: nhacvang
 musician: “Trịnh Công Sơn”
 —&lt;/p&gt;
 
-&lt;pre datakey=&quot;&quot;&gt;
+&lt;pre data-key=&quot;&quot;&gt;
 
                        G
 1. Em hai mươi tuổi em  là nắng
@@ -1998,7 +1998,7 @@ category: nhacvang
 musician: “Trịnh Công Sơn”
 —&lt;/p&gt;
 
-&lt;pre datakey=&quot;&quot;&gt;
+&lt;pre data-key=&quot;&quot;&gt;
 
        Am                                   Dm
 1. Gọi    nắng, trên vai em gầy đường xa áo    bay
@@ -2056,7 +2056,7 @@ category: nhacvang
 musician: “Trịnh Công Sơn”
 —&lt;/p&gt;
 
-&lt;pre datakey=&quot;&quot;&gt;
+&lt;pre data-key=&quot;&quot;&gt;
 
          Dm          F       C
 1. Người    phu quét  lá bên  đường
@@ -2122,7 +2122,7 @@ category: nhacvang
 musician: “Trịnh Công Sơn”
 —&lt;/p&gt;
 
-&lt;pre datakey=&quot;&quot;&gt;
+&lt;pre data-key=&quot;&quot;&gt;
 
            C                G
 1. Em đứng  lên gọi mưa vào  Hạ
@@ -2196,7 +2196,7 @@ category: nhacvang
 musician: “Trịnh Công Sơn”
 —&lt;/p&gt;
 
-&lt;pre datakey=&quot;&quot;&gt;
+&lt;pre data-key=&quot;&quot;&gt;
 
                  E7                       A
 1. Giọt nước mắt    thương con con ngủ mẹ  mừng
@@ -2258,7 +2258,7 @@ category: nhacvang
 musician: “Trịnh Công Sơn”
 —&lt;/p&gt;
 
-&lt;pre datakey=&quot;&quot;&gt;
+&lt;pre data-key=&quot;&quot;&gt;
 
         F         C             F
 1. Ngàn  năm giọt  nước có buồn  không?
@@ -2307,7 +2307,7 @@ category: nhacvang
 musician: “Trịnh Công Sơn”
 —&lt;/p&gt;
 
-&lt;pre datakey=&quot;&quot;&gt;
+&lt;pre data-key=&quot;&quot;&gt;
 
      Am        Dm         F         Am            G           Em
 Sống    có bao    năm vui  vui buồn    buồn người  người ngợm    ngợm
@@ -2365,7 +2365,7 @@ category: nhacvang
 musician: “Trịnh Công Sơn”
 —&lt;/p&gt;
 
-&lt;pre datakey=&quot;&quot;&gt;
+&lt;pre data-key=&quot;&quot;&gt;
 
             G
 1. Một ngàn  năm nô lệ giặc Tàu
@@ -2444,7 +2444,7 @@ category: nhacvang
 musician: “Trịnh Công Sơn”
 —&lt;/p&gt;
 
-&lt;pre datakey=&quot;&quot;&gt;
+&lt;pre data-key=&quot;&quot;&gt;
 
            F       Dm                Am      D7
 1. Có điều  gì gần    như niềm tuyệt    vọng
@@ -2521,7 +2521,7 @@ category: nhacvang
 musician: “Trịnh Công Sơn”
 —&lt;/p&gt;
 
-&lt;pre datakey=&quot;&quot;&gt;
+&lt;pre data-key=&quot;&quot;&gt;
 
              C                Am
 1. Trên nông  trường không xa    lắm
@@ -2603,7 +2603,7 @@ category: nhacvang
 musician: “Trịnh Công Sơn”
 —&lt;/p&gt;
 
-&lt;pre datakey=&quot;&quot;&gt;
+&lt;pre data-key=&quot;&quot;&gt;
 
          G
 1. Em sẽ  là mùa xuân của mẹ
@@ -2659,7 +2659,7 @@ category: nhacvang
 musician: “Trịnh Công Sơn”
 —&lt;/p&gt;
 
-&lt;pre datakey=&quot;&quot;&gt;
+&lt;pre data-key=&quot;&quot;&gt;
 
         Am                 C     E7            Am
 Rừng đã    cháy và rừng đã  héo,    em hãy ngủ    đi
@@ -2719,7 +2719,7 @@ category: nhacvang
 musician: “Trịnh Công Sơn”
 —&lt;/p&gt;
 
-&lt;pre datakey=&quot;&quot;&gt;
+&lt;pre data-key=&quot;&quot;&gt;
 
              Em
 1. Em đi qua    cầu có gió bay theo
@@ -2773,7 +2773,7 @@ category: nhacvang
 musician: “Trịnh Công Sơn”
 —&lt;/p&gt;
 
-&lt;pre datakey=&quot;&quot;&gt;
+&lt;pre data-key=&quot;&quot;&gt;
 
 Am            Dm             Am
    Bỏ mặc căn    nhà, bỏ mặc    tôi
@@ -2850,7 +2850,7 @@ category: nhacvang
 musician: “Trịnh Công Sơn”
 —&lt;/p&gt;
 
-&lt;pre datakey=&quot;&quot;&gt;
+&lt;pre data-key=&quot;&quot;&gt;
 
 E                  E
  Tôi vẫn nhìn thấy  em
@@ -2913,7 +2913,7 @@ category: nhacvang
 musician: “Trịnh Công Sơn”
 —&lt;/p&gt;
 
-&lt;pre datakey=&quot;&quot;&gt;
+&lt;pre data-key=&quot;&quot;&gt;
 
                   F         C                   Dm
 1. Em đi cùng mùa  xuân đến  trong đôi tay cuộc    đời
@@ -2963,7 +2963,7 @@ category: nhacvang
 musician: “Trịnh Công Sơn”
 —&lt;/p&gt;
 
-&lt;pre datakey=&quot;&quot;&gt;
+&lt;pre data-key=&quot;&quot;&gt;
 
           C     E7             Am     G7
 Em sẽ cho  tôi,    cho tôi một    đời
@@ -3018,7 +3018,7 @@ category: nhacvang
 musician: “Trịnh Công Sơn”
 —&lt;/p&gt;
 
-&lt;pre datakey=&quot;&quot;&gt;
+&lt;pre data-key=&quot;&quot;&gt;
 
           E7               Am
 1. Em còn    nhớ hay em đã    quên ?
@@ -3145,7 +3145,7 @@ category: nhacvang
 musician: “Trịnh Công Sơn”
 —&lt;/p&gt;
 
-&lt;pre datakey=&quot;&quot;&gt;
+&lt;pre data-key=&quot;&quot;&gt;
 
           E7                 Am
 Mẹ bỏ tôi    đi đường xa vạn    dặm
@@ -3199,7 +3199,7 @@ category: nhacvang
 musician: “Trịnh Công Sơn”
 —&lt;/p&gt;
 
-&lt;pre datakey=&quot;&quot;&gt;
+&lt;pre data-key=&quot;&quot;&gt;
 
    Am                                    Em
 1.    Hỡi những con chim đêm sao chưa vỗ    cánh
@@ -3272,7 +3272,7 @@ category: nhacvang
 musician: “Trịnh Công Sơn”
 —&lt;/p&gt;
 
-&lt;pre datakey=&quot;&quot;&gt;
+&lt;pre data-key=&quot;&quot;&gt;
 
    D            G       A7                 D
 1.  Ta cùng lên  đường,    đi xây lại Việt  Nam
@@ -3339,7 +3339,7 @@ category: nhacvang
 musician: “Trịnh Công Sơn”
 —&lt;/p&gt;
 
-&lt;pre datakey=&quot;&quot;&gt;
+&lt;pre data-key=&quot;&quot;&gt;
 
        E7              Am                         E7
 1. Đàn    bò vào thành    phố, đêm buồn vắng buồn    hơn
@@ -3405,7 +3405,7 @@ category: nhacvang
 musician: “Trịnh Công Sơn”
 —&lt;/p&gt;
 
-&lt;pre datakey=&quot;&quot;&gt;
+&lt;pre data-key=&quot;&quot;&gt;
 
             C                 G
 1. Hai mươi  năm nhục nhằn đã  qua
@@ -3513,7 +3513,7 @@ category: nhacvang
 musician: “Trịnh Công Sơn”
 —&lt;/p&gt;
 
-&lt;pre datakey=&quot;&quot;&gt;
+&lt;pre data-key=&quot;&quot;&gt;
 
               Em            Am              Em             D
 1. Đường sóng    gió đã qua    đi đường hoà    bình ta đến  rồi
@@ -3562,7 +3562,7 @@ category: nhacvang
 musician: “Trịnh Công Sơn”
 —&lt;/p&gt;
 
-&lt;pre datakey=&quot;&quot;&gt;
+&lt;pre data-key=&quot;&quot;&gt;
 
               C           D7                G
 1.Vì có chúng  em nên đời    sống mãi không  già
@@ -3636,7 +3636,7 @@ category: nhacvang
 musician: “Trịnh Công Sơn”
 —&lt;/p&gt;
 
-&lt;pre datakey=&quot;&quot;&gt;
+&lt;pre data-key=&quot;&quot;&gt;
 
             Am
 1a. Ðôi mắt    nào mở ra trên cao
@@ -3717,16 +3717,8 @@ Tìm  buồng cau cao đeo giọt nắng buổi    chiều
       </item>
     
       <item>
-        <title>Trinhcongson Doi Goi Em Biet Bao Lan</title>
-        <description>&lt;p&gt;﻿—
-title: “”
-layout: post
-tags: [‘Nhạc vàng’, ‘Trịnh Công Sơn’]
-category: nhacvang
-musician: “Trịnh Công Sơn”
-—&lt;/p&gt;
-
-&lt;pre datakey=&quot;&quot;&gt;
+        <title>Đời gọi em biết bao lần</title>
+        <description>&lt;pre data-key=&quot;Am&quot;&gt;
 
                  Am
 1. Đi về đâu hỡi    em?
@@ -3777,25 +3769,23 @@ Một cành    hoa giữa tâm    hồn
 &lt;pre&gt;
 &lt;/pre&gt;&lt;/pre&gt;
 </description>
-        <nhacsy></nhacsy>
+        <nhacsy>Trịnh Công Sơn</nhacsy>
         <pubDate>Fri, 18 Nov 2016 00:00:00 +0700</pubDate>
         <link>/trinhcongson-Doi-goi-em-biet-bao-lan</link>
         <guid isPermaLink="true">/trinhcongson-Doi-goi-em-biet-bao-lan</guid>
         
+        <category>Nhạc vàng</category>
+        
+        <category>Trịnh Công Sơn</category>
+        
+        
+        <category>nhacvang</category>
         
       </item>
     
       <item>
-        <title>Trinhcongson Doi Co Mot Ngay</title>
-        <description>&lt;p&gt;﻿—
-title: “”
-layout: post
-tags: [‘Nhạc vàng’, ‘Trịnh Công Sơn’]
-category: nhacvang
-musician: “Trịnh Công Sơn”
-—&lt;/p&gt;
-
-&lt;pre datakey=&quot;&quot;&gt;
+        <title>Đời có một ngày</title>
+        <description>&lt;pre data-key=&quot;D&quot;&gt;
 
        D        Bm             Em           D
 1. Đợi  chờ yêu    thương trên    cây thánh  giá
@@ -3844,25 +3834,23 @@ Dành  trong bao la con đường thật nhỏ
 &lt;pre&gt;
 &lt;/pre&gt;&lt;/pre&gt;
 </description>
-        <nhacsy></nhacsy>
+        <nhacsy>Trịnh Công Sơn</nhacsy>
         <pubDate>Fri, 18 Nov 2016 00:00:00 +0700</pubDate>
         <link>/trinhcongson-Doi-co-mot-ngay</link>
         <guid isPermaLink="true">/trinhcongson-Doi-co-mot-ngay</guid>
         
+        <category>Nhạc vàng</category>
+        
+        <category>Trịnh Công Sơn</category>
+        
+        
+        <category>nhacvang</category>
         
       </item>
     
       <item>
-        <title>Trinhcongson Doi Cho Ta The     C</title>
-        <description>&lt;p&gt;﻿—
-title: “”
-layout: post
-tags: [‘Nhạc vàng’, ‘Trịnh Công Sơn’]
-category: nhacvang
-musician: “Trịnh Công Sơn”
-—&lt;/p&gt;
-
-&lt;pre datakey=&quot;&quot;&gt;
+        <title>Đời cho ta là thế</title>
+        <description>&lt;pre data-key=&quot;D&quot;&gt;
 
             D
 1. Không xa  đời và cũng không xa loài người
@@ -3923,25 +3911,23 @@ Không xa    một ngày và cũng không xa một  đời
 &lt;pre&gt;
 &lt;/pre&gt;&lt;/pre&gt;
 </description>
-        <nhacsy></nhacsy>
+        <nhacsy>Trịnh Công Sơn</nhacsy>
         <pubDate>Fri, 18 Nov 2016 00:00:00 +0700</pubDate>
         <link>/trinhcongson-Doi-cho-ta-the-C</link>
         <guid isPermaLink="true">/trinhcongson-Doi-cho-ta-the-C</guid>
         
+        <category>Nhạc vàng</category>
+        
+        <category>Trịnh Công Sơn</category>
+        
+        
+        <category>nhacvang</category>
         
       </item>
     
       <item>
-        <title>Trinhcongson Doan Khuc Thu Ha Noi    T</title>
-        <description>&lt;p&gt;﻿—
-title: “”
-layout: post
-tags: [‘Nhạc vàng’, ‘Trịnh Công Sơn’]
-category: nhacvang
-musician: “Trịnh Công Sơn”
-—&lt;/p&gt;
-
-&lt;pre datakey=&quot;&quot;&gt;
+        <title>Đoản khúc thu Hà Nội</title>
+        <description>&lt;pre data-key=&quot;F&quot;&gt;
 
               F          Bb     D7 Gm
 1. Bởi vì mùa  thu tôi ở    lại
@@ -3976,25 +3962,23 @@ Tặng hết cho    tôi một phố  chờ.
 &lt;pre&gt;
 &lt;/pre&gt;&lt;/pre&gt;
 </description>
-        <nhacsy></nhacsy>
+        <nhacsy>Trịnh Công Sơn</nhacsy>
         <pubDate>Fri, 18 Nov 2016 00:00:00 +0700</pubDate>
         <link>/trinhcongson-Doan-khuc-thu-Ha-Noi-T</link>
         <guid isPermaLink="true">/trinhcongson-Doan-khuc-thu-Ha-Noi-T</guid>
         
+        <category>Nhạc vàng</category>
+        
+        <category>Trịnh Công Sơn</category>
+        
+        
+        <category>nhacvang</category>
         
       </item>
     
       <item>
-        <title>Trinhcongson Doa Hoa Vo Thuong    Trin</title>
-        <description>&lt;p&gt;﻿—
-title: “”
-layout: post
-tags: [‘Nhạc vàng’, ‘Trịnh Công Sơn’]
-category: nhacvang
-musician: “Trịnh Công Sơn”
-—&lt;/p&gt;
-
-&lt;pre datakey=&quot;&quot;&gt;
+        <title>Đoá hoa vô thường</title>
+        <description>&lt;pre data-key=&quot;G&quot;&gt;
 
     G                          C
 Tìm  em tôi tìm mình hạc xương  mai
@@ -4147,26 +4131,23 @@ Nở    đóa hoa vô    thường.
 &lt;pre&gt;
 &lt;/pre&gt;&lt;/pre&gt;
 </description>
-        <nhacsy></nhacsy>
+        <nhacsy>Trịnh Công Sơn</nhacsy>
         <pubDate>Fri, 18 Nov 2016 00:00:00 +0700</pubDate>
         <link>/trinhcongson-Doa-hoa-vo-thuong-Trin</link>
         <guid isPermaLink="true">/trinhcongson-Doa-hoa-vo-thuong-Trin</guid>
         
+        <category>Nhạc vàng</category>
+        
+        <category>Trịnh Công Sơn</category>
+        
+        
+        <category>nhacvang</category>
         
       </item>
     
       <item>
-        <title>Trinhcongson Diem Xua      So</title>
-        <description>&lt;p&gt;﻿—
-title: “”
-layout: post
-tags: [‘Nhạc vàng’, ‘Trịnh Công Sơn’]
-category: nhacvang
-musician: “Trịnh Công Sơn”
-—&lt;/p&gt;
-
-&lt;pre datakey=&quot;&quot;&gt;
-
+        <title>Diễm xưa</title>
+        <description>&lt;pre data-key=&quot;Am&quot;&gt;
                                   Am
 1. Mưa vẫn mưa bay trên tầng tháp    cổ
            C                  Dm
@@ -4215,25 +4196,23 @@ Ngày sau sỏi đá cũng cần có    nhau.)
 &lt;pre&gt;
 &lt;/pre&gt;&lt;/pre&gt;
 </description>
-        <nhacsy></nhacsy>
+        <nhacsy>Trịnh Công Sơn</nhacsy>
         <pubDate>Fri, 18 Nov 2016 00:00:00 +0700</pubDate>
         <link>/trinhcongson-Diem-xua-So</link>
         <guid isPermaLink="true">/trinhcongson-Diem-xua-So</guid>
         
+        <category>Nhạc vàng</category>
+        
+        <category>Trịnh Công Sơn</category>
+        
+        
+        <category>nhacvang</category>
         
       </item>
     
       <item>
-        <title>Trinhcongson Di Tim Que Huong</title>
-        <description>&lt;p&gt;﻿—
-title: “”
-layout: post
-tags: [‘Nhạc vàng’, ‘Trịnh Công Sơn’]
-category: nhacvang
-musician: “Trịnh Công Sơn”
-—&lt;/p&gt;
-
-&lt;pre datakey=&quot;&quot;&gt;
+        <title>Đi tìm quê hương</title>
+        <description>&lt;pre data-key=&quot;Gm&quot;&gt;
 
    Gm          F      Bb
 1.    Người nô  lệ da    vàng ngủ quên
@@ -4314,25 +4293,23 @@ Eb        D7          Gm
 &lt;pre&gt;
 &lt;/pre&gt;&lt;/pre&gt;
 </description>
-        <nhacsy></nhacsy>
+        <nhacsy>Trịnh Công Sơn</nhacsy>
         <pubDate>Fri, 18 Nov 2016 00:00:00 +0700</pubDate>
         <link>/trinhcongson-Di-tim-que-huong</link>
         <guid isPermaLink="true">/trinhcongson-Di-tim-que-huong</guid>
         
+        <category>Nhạc vàng</category>
+        
+        <category>Trịnh Công Sơn</category>
+        
+        
+        <category>nhacvang</category>
         
       </item>
     
       <item>
-        <title>Trinhcongson Di Mai Tren Duong</title>
-        <description>&lt;p&gt;﻿—
-title: “”
-layout: post
-tags: [‘Nhạc vàng’, ‘Trịnh Công Sơn’]
-category: nhacvang
-musician: “Trịnh Công Sơn”
-—&lt;/p&gt;
-
-&lt;pre datakey=&quot;&quot;&gt;
+        <title>Đi mãi trên đường</title>
+        <description>&lt;pre data-key=&quot;Am&quot;&gt;
 
    Am
 1.    Đi đi trên đường
@@ -4362,25 +4339,23 @@ E7                      Am
 &lt;pre&gt;
 &lt;/pre&gt;&lt;/pre&gt;
 </description>
-        <nhacsy></nhacsy>
+        <nhacsy>Trịnh Công Sơn</nhacsy>
         <pubDate>Fri, 18 Nov 2016 00:00:00 +0700</pubDate>
         <link>/trinhcongson-Di-mai-tren-duong</link>
         <guid isPermaLink="true">/trinhcongson-Di-mai-tren-duong</guid>
         
+        <category>Nhạc vàng</category>
+        
+        <category>Trịnh Công Sơn</category>
+        
+        
+        <category>nhacvang</category>
         
       </item>
     
       <item>
-        <title>Trinhcongson Dem Thay Ta La Thac Do</title>
-        <description>&lt;p&gt;﻿—
-title: “”
-layout: post
-tags: [‘Nhạc vàng’, ‘Trịnh Công Sơn’]
-category: nhacvang
-musician: “Trịnh Công Sơn”
-—&lt;/p&gt;
-
-&lt;pre datakey=&quot;&quot;&gt;
+        <title>Đêm thấy ta là thác đổ</title>
+        <description>&lt;pre data-key=&quot;Am&quot;&gt;
 
        Am                      Em           G                  C
 1. Một    đêm bước chân về gác    nhỏ, chợt  nhớ đóa hoa tường  vi
@@ -4416,25 +4391,23 @@ Và  em đã mang lời  khấn nhỏ, bỏ  tôi đứng    bên đời    kia
 &lt;pre&gt;
 &lt;/pre&gt;&lt;/pre&gt;
 </description>
-        <nhacsy></nhacsy>
+        <nhacsy>Trịnh Công Sơn</nhacsy>
         <pubDate>Fri, 18 Nov 2016 00:00:00 +0700</pubDate>
         <link>/trinhcongson-Dem-thay-ta-la-thac-do</link>
         <guid isPermaLink="true">/trinhcongson-Dem-thay-ta-la-thac-do</guid>
         
+        <category>Nhạc vàng</category>
+        
+        <category>Trịnh Công Sơn</category>
+        
+        
+        <category>nhacvang</category>
         
       </item>
     
       <item>
-        <title>Trinhcongson Dem Bay Gio Dem Mai    Tr</title>
-        <description>&lt;p&gt;﻿—
-title: “”
-layout: post
-tags: [‘Nhạc vàng’, ‘Trịnh Công Sơn’]
-category: nhacvang
-musician: “Trịnh Công Sơn”
-—&lt;/p&gt;
-
-&lt;pre datakey=&quot;&quot;&gt;
+        <title>Đêm bây giờ đêm mai</title>
+        <description>&lt;pre data-key=&quot;Am&quot;&gt;
 
    Am        E7        C        Am     F          E7         Am
 1.    Ôi đêm    dài và  cơn bão    rớt  trên giải    đất quê    hương khô cằn
@@ -4484,25 +4457,23 @@ A                Bm          A                         F#m          A
 &lt;pre&gt;
 &lt;/pre&gt;&lt;/pre&gt;
 </description>
-        <nhacsy></nhacsy>
+        <nhacsy>Trịnh Công Sơn</nhacsy>
         <pubDate>Fri, 18 Nov 2016 00:00:00 +0700</pubDate>
         <link>/trinhcongson-Dem-bay-gio-dem-mai-Tr</link>
         <guid isPermaLink="true">/trinhcongson-Dem-bay-gio-dem-mai-Tr</guid>
         
+        <category>Nhạc vàng</category>
+        
+        <category>Trịnh Công Sơn</category>
+        
+        
+        <category>nhacvang</category>
         
       </item>
     
       <item>
-        <title>Trinhcongson De Gio Cuon Di     C</title>
-        <description>&lt;p&gt;﻿—
-title: “”
-layout: post
-tags: [‘Nhạc vàng’, ‘Trịnh Công Sơn’]
-category: nhacvang
-musician: “Trịnh Công Sơn”
-—&lt;/p&gt;
-
-&lt;pre datakey=&quot;&quot;&gt;
+        <title>Để gió cuốn đi</title>
+        <description>&lt;pre data-key=&quot;C&quot;&gt;
 
    C                                   Am
 1.  Sống trong đời sống cần có một tấm    lòng
@@ -4553,25 +4524,23 @@ Dù    vắng bóng  ai, dù    vắng bóng  ai
 &lt;pre&gt;
 &lt;/pre&gt;&lt;/pre&gt;
 </description>
-        <nhacsy></nhacsy>
+        <nhacsy>Trịnh Công Sơn</nhacsy>
         <pubDate>Fri, 18 Nov 2016 00:00:00 +0700</pubDate>
         <link>/trinhcongson-De-gio-cuon-di-C</link>
         <guid isPermaLink="true">/trinhcongson-De-gio-cuon-di-C</guid>
         
+        <category>Nhạc vàng</category>
+        
+        <category>Trịnh Công Sơn</category>
+        
+        
+        <category>nhacvang</category>
         
       </item>
     
       <item>
-        <title>Trinhcongson Dau Chan Dia Dang    Trin</title>
-        <description>&lt;p&gt;﻿—
-title: “”
-layout: post
-tags: [‘Nhạc vàng’, ‘Trịnh Công Sơn’]
-category: nhacvang
-musician: “Trịnh Công Sơn”
-—&lt;/p&gt;
-
-&lt;pre datakey=&quot;&quot;&gt;
+        <title>Dấu chân địa đàng</title>
+        <description>&lt;pre data-key=&quot;Dm&quot;&gt;
 
               Dm        Gm                  Dm
 1. Trời buông    gió và    mây về ngang bên    lưng đèo
@@ -4613,25 +4582,23 @@ Rồi từ    đó loài sâu nửa    đêm quên đi ưu    phiền
 &lt;pre&gt;
 &lt;/pre&gt;&lt;/pre&gt;
 </description>
-        <nhacsy></nhacsy>
+        <nhacsy>Trịnh Công Sơn</nhacsy>
         <pubDate>Fri, 18 Nov 2016 00:00:00 +0700</pubDate>
         <link>/trinhcongson-Dau-chan-dia-dang-Trin</link>
         <guid isPermaLink="true">/trinhcongson-Dau-chan-dia-dang-Trin</guid>
         
+        <category>Nhạc vàng</category>
+        
+        <category>Trịnh Công Sơn</category>
+        
+        
+        <category>nhacvang</category>
         
       </item>
     
       <item>
-        <title>Trinhcongson Dai Bac Ru Dem     C</title>
-        <description>&lt;p&gt;﻿—
-title: “”
-layout: post
-tags: [‘Nhạc vàng’, ‘Trịnh Công Sơn’]
-category: nhacvang
-musician: “Trịnh Công Sơn”
-—&lt;/p&gt;
-
-&lt;pre datakey=&quot;&quot;&gt;
+        <title>Đại bác ru đêm</title>
+        <description>&lt;pre data-key=&quot;Am&quot;&gt;
 
        Am         Dm                  C
 1. Đại    bác đêm    đêm dội về thành  phố
@@ -4693,25 +4660,23 @@ Từng vùng thịt    xương có mẹ có    em
 &lt;pre&gt;
 &lt;/pre&gt;&lt;/pre&gt;
 </description>
-        <nhacsy></nhacsy>
+        <nhacsy>Trịnh Công Sơn</nhacsy>
         <pubDate>Fri, 18 Nov 2016 00:00:00 +0700</pubDate>
         <link>/trinhcongson-Dai-bac-ru-dem-C</link>
         <guid isPermaLink="true">/trinhcongson-Dai-bac-ru-dem-C</guid>
         
+        <category>Nhạc vàng</category>
+        
+        <category>Trịnh Công Sơn</category>
+        
+        
+        <category>nhacvang</category>
         
       </item>
     
       <item>
-        <title>Trinhcongson Cuoi Cung Cho Mot Tinh Yeu</title>
-        <description>&lt;p&gt;﻿—
-title: “”
-layout: post
-tags: [‘Nhạc vàng’, ‘Trịnh Công Sơn’]
-category: nhacvang
-musician: “Trịnh Công Sơn”
-—&lt;/p&gt;
-
-&lt;pre datakey=&quot;&quot;&gt;
+        <title>Cuối cùng cho một tình yêu</title>
+        <description>&lt;pre data-key=&quot;C&quot;&gt;
 
           C                    F
 Ừ thôi em  về, chiều mưa giông  tới
@@ -4746,25 +4711,23 @@ Sầu thôi    xuống  đầy.
 &lt;pre&gt;
 &lt;/pre&gt;&lt;/pre&gt;
 </description>
-        <nhacsy></nhacsy>
+        <nhacsy>Trịnh Công Sơn</nhacsy>
         <pubDate>Fri, 18 Nov 2016 00:00:00 +0700</pubDate>
         <link>/trinhcongson-Cuoi-cung-cho-mot-tinh-yeu</link>
         <guid isPermaLink="true">/trinhcongson-Cuoi-cung-cho-mot-tinh-yeu</guid>
         
+        <category>Nhạc vàng</category>
+        
+        <category>Trịnh Công Sơn</category>
+        
+        
+        <category>nhacvang</category>
         
       </item>
     
       <item>
-        <title>Trinhcongson Cung Se Chim Troi    Trin</title>
-        <description>&lt;p&gt;﻿—
-title: “”
-layout: post
-tags: [‘Nhạc vàng’, ‘Trịnh Công Sơn’]
-category: nhacvang
-musician: “Trịnh Công Sơn”
-—&lt;/p&gt;
-
-&lt;pre datakey=&quot;&quot;&gt;
+        <title>Cũng sẽ chìm trôi</title>
+        <description>&lt;pre data-key=&quot;Am&quot;&gt;
 
         Am                 C       A               F
 1. Nhật    nguyệt í a trên  cao ta  ngồi ối a dưới  thấp
@@ -4789,17 +4752,23 @@ Từng    giọt í a vô    biên tôi  chìm í a tiếng    tăm
 &lt;pre&gt;
 &lt;/pre&gt;&lt;/pre&gt;
 </description>
-        <nhacsy></nhacsy>
+        <nhacsy>Trịnh Công Sơn</nhacsy>
         <pubDate>Fri, 18 Nov 2016 00:00:00 +0700</pubDate>
         <link>/trinhcongson-Cung-se-chim-troi-Trin</link>
         <guid isPermaLink="true">/trinhcongson-Cung-se-chim-troi-Trin</guid>
         
+        <category>Nhạc vàng</category>
+        
+        <category>Trịnh Công Sơn</category>
+        
+        
+        <category>nhacvang</category>
         
       </item>
     
       <item>
         <title>Cuối xuống thật gần</title>
-        <description>&lt;pre datakey=&quot;Gm&quot;&gt;
+        <description>&lt;pre data-key=&quot;Gm&quot;&gt;
 
     Gm                     Bb               C         F
 Cúi    xuống cho máu ngược    dòng cho nước  sông cạn  nguồn
@@ -6771,8 +6740,8 @@ Bống này bống là  ai
 </description>
         <nhacsy>Trịnh Công Sơn</nhacsy>
         <pubDate>Thu, 17 Nov 2016 00:00:00 +0700</pubDate>
-        <link>/trinhcongson-Bong-bong-oi-Con</link>
-        <guid isPermaLink="true">/trinhcongson-Bong-bong-oi-Con</guid>
+        <link>/trinhcongson-Bong-bong-oi</link>
+        <guid isPermaLink="true">/trinhcongson-Bong-bong-oi</guid>
         
         <category>Nhạc vàng</category>
         
