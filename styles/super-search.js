@@ -83,8 +83,8 @@ MIT Licensed
 		searchResultsEl.style.offsetWidth;
 
 		var matchingPosts = posts.filter(function (post) {
-			// Search `description` and `content` both to support 1.0 and 2.0 formats.
-			if ((post.title + '').toLowerCase().indexOf(currentInputValue) !== -1 || ((post.description || post.content) + '').toLowerCase().indexOf(currentInputValue) !== -1) {
+			// Search `description` and `musician` both to support 1.0 and 2.0 formats.
+			if ((post.title + '').toLowerCase().indexOf(currentInputValue) !== -1 || ((post.description || post.musician) + '').toLowerCase().indexOf(currentInputValue) !== -1) {
 				return true;
 			}
 		});
@@ -98,7 +98,7 @@ MIT Licensed
 				// d = new Date(post.pubDate);
 				// return '<li><a href="' + post.link + '">' + post.title + '<span class="super-search__result-date">' + d.toUTCString().replace(/.*(\d{2})\s+(\w{3})\s+(\d{4}).*/,'$2 $1, $3') + '</span></a></li>';
 				d = new String(post.nhacsy);
-				return '<li><a href="' + post.link + '">' + post.title + '<span class="super-search__result-tennhacsy">' + d + '</span></a></li>';
+				return '<li><a href="' + post.link + '" target="_blank">' + post.title + '<span class="super-search__result-tennhacsy">' + d + '</span></a></li>';
 			}).join('');
 		}
 		lastSearchResultHash = currentResultHash;
