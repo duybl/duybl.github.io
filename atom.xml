@@ -4,7 +4,7 @@
  <title>chordFULL</title>
  <link href="/atom.xml" rel="self"/>
  <link href=""/>
- <updated>2016-11-19T16:43:43+07:00</updated>
+ <updated>2016-11-19T17:19:11+07:00</updated>
  <id></id>
  <author>
    <name>binhbet</name>
@@ -6627,6 +6627,60 @@ Dm              G          C              G
    Sóng xô trời  chiều làm  nhớ tóc người  yêu
 Dm                           G        C
    Biển xôn xao là một tiếng  hát cho  nhau
+&lt;/pre&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>test</title>
+   <link href="/trinhcongson-test"/>
+   <updated>2016-09-20T03:10:00+07:00</updated>
+   <id>/trinhcongson-test</id>
+   <content type="html">&lt;h1 id=&quot;bunch-of-text&quot;&gt;Bunch of text&lt;/h1&gt;
+
+&lt;p&gt;One common flaw we’ve seen in many frameworks is a lack of support for truly responsive text. While elements on the page resize fluidly, text still resizes on a fixed basis. To ameliorate this problem, for text heavy pages, we’ve created a class that fluidly scales text size and line-height to optimize readability for the user. Line length stays between 45-80 characters and line height scales to be larger on smaller screens.&lt;/p&gt;
+
+&lt;p&gt;To see Flow Text in action, slowly resize your browser and watch the size of this text body change! Use the button above to toggle off/on flow-text to see the difference!&lt;/p&gt;
+
+&lt;pre data-key=&quot;Am&quot;&gt;
+&lt;div class=&quot;flow-text&quot;&gt;
+Am                                 Dm
+1.    Chiều trên quê hương tôi có khi    đây một trời mưa bay
+    F                   C           G                 E7
+Có nơi  kia đồi thông nắng  đầy có bên  sông bờ xa sương    khói
+Am                                    Dm                   Am
+Chiều trên quê hương tôi nắng phơi    trên màu ngói non    tươi
+      Em                Dm            E7                   Am
+Gió mang    tin một mùa sẽ    tới sẽ mưa    lâu hoặc cơn nắng    dài
+
+To see Flow Text in action, slowly resize your browser and watch the size of this text body change! Use the button above to toggle off/on flow-text to see the difference!
+
+Am                                  Dm
+2.    Chiều trên quê hương tôi gió đến    chơi từ bờ biển xa
+     F                C            G                   E7
+Núi đôi  khi màu sim tím  lạ nắng như  môi hoàng hôn trên    phố
+Am                                  Dm                    Am
+Chiều trên quê hương tôi với bao    nhiêu điều đã trôi    qua
+      Em                Dm             E7                     Am
+Có riêng    em cuộc đời sẽ    nhớ nét quê    hương nghìn năm vẫn    là
+
+ A                     F#m                   D              E7
+ĐK:  Chiều trên quê hương     tôi có những chốn  riêng cho mọi    người
+D          A              F#m           E7
+Những con  đường lứa đôi     những góc    hè phố vui
+D                E7        F#m     A      B7                 E7
+Giọt chiều trên    lá như     mắt  người    cười giữa chiều    phai
+
+A                     F#m                    D             E7
+Chiều trên quê hương     tôi nắng khép cánh  chia tay một    ngày
+D                  A    F#m            E7
+Vết son vàng cuối  mây     tiếng trâu    về đó đây
+D               E         F#m     A        B7          E7
+Chiều đi nhưng  nắng vẫn     cho  đời lửa    bếp hồng    khơi
+
+Am                                      E7           Am
+Chiều trên quê hương tôi, chiều trên    quê hương    tôi
+&lt;/div&gt;
 &lt;/pre&gt;
 </content>
  </entry>

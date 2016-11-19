@@ -339,7 +339,7 @@ span.c {
 Author: Kushagra Gour (http://kushagragour.in)
 MIT Licensed
 */
-.super-search-btn {
+/*.super-search-btn {
 	position: center;
 	right: 10px;
 	top: 15px;
@@ -348,7 +348,7 @@ MIT Licensed
 
 .super-search-btn:hover {
 	fill: #BBB;
-}
+}*/
 
 .super-search {
 	position: fixed;
@@ -363,18 +363,18 @@ MIT Licensed
 	opacity: 50;
 }
 
-.super-search__close-btn {
+/*.super-search__close-btn {
 	fill: #DDD;
 	position: absolute;
 	right: 3px;
 	top: 3px;
 	z-index: 1;
   color: #000;
-}
+}*/
 
-.super-search__close-btn:hover {
+/*.super-search__close-btn:hover {
 	fill: #BBB;
-}
+}*/
 
 .super-search__input {
 	border: 0;
@@ -428,4 +428,8 @@ MIT Licensed
 .super-search__results.is-hidden {
 	opacity: 0;
 	transform: translateY(-1vh);
+}
+
+pre {
+  white-space: pre-wrap;
 }
