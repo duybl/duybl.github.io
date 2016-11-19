@@ -351,7 +351,7 @@ MIT Licensed
 
 .super-search {
 	position: fixed;
-	background-color: transparent;
+	background-color: white;
 	left: 0;
 	right: 0;
 	top: 0;
@@ -403,8 +403,9 @@ MIT Licensed
 
 .super-search__results > li > a {
 	display: block;
-	position: relative;
-	background-color: #f9f9f9;
+	position: inherit;
+	background-color: white;
+  text-align: left;
 	color: #666;
 	padding: 10px;
 	margin: 12px 14px;
