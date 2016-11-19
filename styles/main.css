@@ -345,6 +345,7 @@ MIT Licensed
 	top: 15px;
 	fill: #DDD;
 }
+
 .super-search-btn:hover {
 	fill: #BBB;
 }
@@ -403,7 +404,7 @@ MIT Licensed
 
 .super-search__results > li > a {
 	display: block;
-	position: inherit;
+	position: relative;
 	background-color: white;
   text-align: left;
 	color: #666;
@@ -415,6 +416,7 @@ MIT Licensed
 .super-search__result-tennhacsy {
 	color: #BBB;
 	position: absolute;
+  text-align: right;
 	right: 12px;
 }
 
