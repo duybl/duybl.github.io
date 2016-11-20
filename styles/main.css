@@ -127,7 +127,7 @@ src:local('Material Icons'),local(MaterialIcons-Regular),url(fonts/icons.woff2) 
 }
 
 a{
-    font-family: 'Share Tech Mono', monospace;
+    font-family: 'Roboto Regular', sans-serif;
 }
 .my-link{
     font-family: 'Roboto Regular', sans-serif;
@@ -149,7 +149,7 @@ a{
     margin-top: 45px;
 }
 .my-name{
-    font-family: 'Vast Shadow', cursive;
+    font-family: 'Roboto Regular', sans-serif;
     font-size: 45px;
     color: black;
 }
@@ -160,7 +160,7 @@ a{
     color: black;
 }
 .my-heading{
-    font-family: 'Vast Shadow', cursive;
+    font-family: 'Roboto Regular', sans-serif;
     font-size: 37px;
     margin-top: 70px;
 }
@@ -178,7 +178,7 @@ a{
     font-size: 14.5px;
 }
 .my-description{
-    font-family: 'Share Tech Mono', monospace;
+    font-family: 'Roboto Regular', sans-serif;
     font-size: 15;
     color: #4db6ac;
     margin-top: 50px;
@@ -444,3 +444,14 @@ pre {
     left: 50%;
   transform: translate(-50%, -50%);
 }
+
+.elegantshadow {
+  {
+    color: #2c2c2c;
+    background-color: #d5d5d5;
+    letter-spacing: .05em;
+    text-shadow:
+      4px 4px 0px #d5d5d5,
+      7px 7px 0px rgba(0, 0, 0, 0.2);
+  }
+  }
