@@ -58,9 +58,8 @@
 <p class="my-description" itemprop="text">
   Nhấn ESC hoặc / để tìm kiếm
 </p>
-
-<!-- Html Elements for Search -->
-<a href="javascript:void(0)" title="hoặc nhấn ESC, hoặc '/' để tìm kiếm" onclick="toggleSearch()" class="btn-floating btn-large waves-effect waves-light #80cbc4"><i class="material-icons">search</i></a>
+  <!-- Html Elements for Search -->
+<a href="javascript:void(0)" title="hoặc nhấn ESC, hoặc '/' để tìm kiếm" onclick="toggleSearch()" class="btn-floating btn-large waves-effect waves-light #80cbc4" style="z-index: inherit;"><i class="material-icons">search</i></a>
 
 <div class="super-search" id="js-super-search">
   <a href="javascript:void(0)" onclick="superSearch.toggle()" class="btn-floating btn-large waves-effect waves-light #80cbc4" style="position: absolute; display: inline-block; right: 17px; top: 17px;"><i class="material-icons">close</i></a>
@@ -76,8 +75,9 @@
 <hr>
 
 <a class="waves-effect waves-light btn" href="#modal1" onclick="document.getElementById('modal1').style.display='block'" style="z-index: inherit;">Nhạc sỹ - Thể loại</a>
+
   <!-- Modal Structure -->
-  <div id="modal1" class="modal">
+  <div id="modal1" class="modal modal-fixed-footer">
     <div class="modal-content">
       <h4>Nhạc sỹ</h4>
       <p>Danh sách nhạc sỹ</p>
