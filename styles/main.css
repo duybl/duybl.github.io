@@ -128,19 +128,20 @@ src:local('Material Icons'),local(MaterialIcons-Regular),url(fonts/icons.woff2) 
 
 a{
     font-family: 'Roboto Regular', sans-serif;
+    color: black;
 }
 .my-link{
     font-family: 'Roboto Regular', sans-serif;
     font-size: 18px !important;
 }
 .my-link:hover{
-    background: #c9f6ff;
-    border: 0px solid #c9f6ff;
+    background: #b2dfdb;
+    border: 0px solid #b2dfdb;
     border-radius: 3px;
 }
 .my-link:active{
-    background: #c9dcff;
-    border: 1px solid #c9dcff;
+    background: #c8e6c9;
+    border: 1px solid #c8e6c9;
     border-radius: 3px;
 }
 .my-section{
