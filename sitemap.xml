@@ -1046,15 +1046,6 @@
   </url>
   
   <url>
-    <loc>/trinhcongson-test</loc>
-    
-    <lastmod>2016-09-20T03:10:00+07:00</lastmod>
-    
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  
-  <url>
     <loc>/trinhcongson-ba-me-o-ly</loc>
     
     <lastmod>2016-09-20T03:10:00+07:00</lastmod>
@@ -1071,6 +1062,19 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
+  
+  <url>
+    <loc>/trinhcongson-001test</loc>
+    
+    <lastmod>2016-09-20T03:10:00+07:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  
+  
+  
   
   
   
